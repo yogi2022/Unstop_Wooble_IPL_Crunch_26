@@ -1,1 +1,8 @@
+Portal Link:
 https://ipl-crunch-26-unstop-wooble.streamlit.app/
+
+Demo Video Link:
+https://vimeo.com/1192855159?share=copy&fl=cl&fe=ci
+
+Project Submission Link:
+https://wooble.org/project/ipl-crunch-26-ball-by-ball-ipl-intelligence-dashboard-for-strategic-match-analytics
